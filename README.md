@@ -15,11 +15,11 @@ This purpose of this challenge was to help demonstrate our knowledge of HTML sem
 
 ## Installation
 
-Navigate to <insert URL here>
+N/A
 
 ## Usage
 
-To view the source code of the site, using Firefox, go to Tools -> Browser Tools -> Web Developer Tools. You can see that the code has been properly refactored and commented to allow for easier use.
+Navigate to [deployed HoriSEOn site](https://domdecap.github.io/module-1-challenge/)To view the source code of the site, using Firefox, go to Tools -> Browser Tools -> Web Developer Tools. You can see that the code has been properly refactored and commented to allow for easier use.
 
 
 ## Credits
